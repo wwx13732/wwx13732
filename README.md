@@ -1,3 +1,3 @@
-Jakub Książek
+Jakub
 23528
 C8
