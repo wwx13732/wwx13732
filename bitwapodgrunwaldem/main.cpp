@@ -7,6 +7,6 @@ int rok_obecny, rok_bitwy_pod_grunwaldem;
 int main()
 {
     cout << "Podaj rok, a oblicze ile minelo od bitwy pod grunwaldem:" << endl;
-    cin >> rok_poprzedni
+    cin >> rok_nastêpny
     return 0;
 }
