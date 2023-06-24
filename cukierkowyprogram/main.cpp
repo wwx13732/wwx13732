@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int uczniowie, cukierki, x, y;
+int uczniowie, laseczki, x, y;
 
 int main()
 {
